@@ -1,0 +1,5 @@
+# puzzle generator
+generator.py
+
+# test input files
+*.txt
